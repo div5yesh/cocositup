@@ -1,3 +1,7 @@
 
 simulator/
 
+
+frameworks/runtime-src/proj\.android-studio/app/obj/
+
+frameworks/runtime-src/proj\.android-studio/app/assets/
